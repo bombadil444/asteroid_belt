@@ -1,8 +1,8 @@
 class A:             # ~~ASTEROID BELT~~
   w=0;a=4;t=2          # By u/Bombadil44
-  def m(_):   # WASD to move. P to shoot
-    _.x+=_.z;_.w+=1        # Don't Panic
-    try:                      # Have Fun
+  def m(_):     # github.com/bombadil444
+    _.x+=_.z;_.w+=1  # WASD=move P=shoot
+    try:      # Don't Panic! Have Fun :D
       for i in 0,1: p(_.x,_.w+i,"O"*4)
     except: o.remove(_)
   def __init__(_): _.x=r(t);_.z=r(-1,2)
