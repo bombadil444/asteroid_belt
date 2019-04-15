@@ -7,11 +7,11 @@ Inspired by Frank Force's Tiny Ski: http://frankforce.com/?p=5826
 Limited to 40 characters wide by 35 characters tall (max 1400 bytes).
 
 ## Compatibility
-Only runs on **Linux** consoles due to use of the curses library.
+Only runs on **Linux and Mac** consoles due to use of the curses library. (sorry windows users)
 
 Compiles in python 2.7 and 3.X
 
-To run simply install python. Then type `python astbelt.py` into a terminal.
+To run simply install python. Then download or clone the repo and type`python astbelt.py` into a terminal.
 
 ## Controls
 * WASD keys to move
