@@ -7,7 +7,7 @@ Inspired by Frank Force's Tiny Ski: http://frankforce.com/?p=5826
 Limited to 40 characters wide by 35 characters tall (max 1400 bytes).
 
 ## Compatibility
-Sould runs in **Linux** and **Mac** consoles natively.
+Should run in **Linux** and **Mac** consoles natively.
 
 On **Windows** the curses library will need to be installed first:
 1) Install python pip 
